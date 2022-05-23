@@ -6,19 +6,15 @@
 
 || Have used (doesn't mean I'm good at it):
 
-|| Java, Pascal, English
+|| Java, Pascal, HTML, English
 
 ||
 
 || Likes:
 
-|| Touch grass (not a lie), RPGs
+|| RPGs, RTGame, Arknight, Manga
 
 ||
-
-|| Addicted to:
-
-|| Arknight (great game), Genshin (help)
 
 <!---
 Roberika/Roberika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
