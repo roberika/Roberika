@@ -4,7 +4,7 @@
 
 || Likes:
 
-|| RPGs, RTGame, Arknight, Manga
+|| RPGs, Arknight, Trashy Light Novels
 
 ||
 
