@@ -2,14 +2,6 @@
 
 ||
 
-||
-
-|| Have used (doesn't mean I'm good at it):
-
-|| Java, Pascal, HTML, English
-
-||
-
 || Likes:
 
 || RPGs, RTGame, Arknight, Manga
