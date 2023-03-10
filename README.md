@@ -1,6 +1,6 @@
 <p>
   Yo.<br>
-  Likes RPGs, Arknight, and trashy light novels
+  Likes RPGs, Arknight, and trashy light novels <br>
   Profile pic by Johnny Goodwill (@sunlighttofastora)
 </p>
 <!---
