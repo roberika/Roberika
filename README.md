@@ -1,6 +1,7 @@
 <p>
   Yo.<br>
   Likes RPGs, Arknight, and trashy light novels
+  Profile pic by Johnny Goodwill (@sunlighttofastora)
 </p>
 <!---
 Roberika/Roberika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
