@@ -4,7 +4,7 @@
   Profile pic by Johnny Goodwill (@sunlighttofastora)
 </p>
 <p>
-  I've used, ordered by my experience, Python, Flutter-Dart, React-JS, Godot, MatLab, Java, Pascal, C++.
+  I've used, ordered by my experience, Python, Flutter-Dart, React-JS, Godot, MatLab, Java, Bash, Pascal, C++.
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=roberika)](https://github.com/ryo-ma/github-profile-trophy)
