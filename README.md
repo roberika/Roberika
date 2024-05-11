@@ -7,7 +7,7 @@
   I've used, ordered by my experience, Python, Flutter-Dart, React-JS, Godot, MatLab, Java, Bash, Pascal, C++.
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roberika)](https://github.com/ryo-ma/github-profile-trophy)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=roberika&show_icons=true&theme=shades_of_purple)
 
 <!---
 Roberika/Roberika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
