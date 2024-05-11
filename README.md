@@ -1,7 +1,7 @@
 <p>
   <h1>Yo.</h1><br>
   I likes pixel art, RPGs, and the trinity that is the Isekai-System-Wuxia genre<br>
-  [roberika.github.io](https://roberika.github.io)
+  <a href="https://roberika.github.io">My site</a><br>
   Profile pic by Johnny Goodwill (@sunlighttofastora)
 </p>
 <p>
