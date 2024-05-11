@@ -7,7 +7,7 @@
   I've used, ordered by my experience, Python, Flutter-Dart, React-JS, Godot, MatLab, Java, Bash, Pascal, C++.
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=roberika&show_icons=true&theme=shades-of-purple&custom_title=My_Stats&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=roberika&show_icons=true&theme=shades-of-purple&custom_title=My-Stats&rank_icon=github)
 
 <!---
 Roberika/Roberika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
