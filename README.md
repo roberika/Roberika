@@ -1,6 +1,7 @@
 <p>
   <h1>Yo.</h1><br>
-  Likes RPGs, Arknight, and trashy light novels <br>
+  I likes pixel art, RPGs, and the trinity that is the Isekai-System-Wuxia genre<br>
+  [roberika.github.io](https://roberika.github.io)
   Profile pic by Johnny Goodwill (@sunlighttofastora)
 </p>
 <p>
