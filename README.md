@@ -1,10 +1,10 @@
 <p>
-  Yo.<br>
+  <h1>Yo.</h1><br>
   Likes RPGs, Arknight, and trashy light novels <br>
   Profile pic by Johnny Goodwill (@sunlighttofastora)
 </p>
 <p>
-  I've used, ordered by my experience, Python, Flutter-Dart, React-JS, Godot, MatLab, Java, Bash, Pascal, C++.
+  I've used, Python, Flutter-Dart, React-JS, Godot, Octave-MatLab, Java, Bash, Pascal, C++.
 </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=roberika&show_icons=true&theme=shades-of-purple&custom_title=My-Stats&rank_icon=github)
