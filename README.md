@@ -1,10 +1,10 @@
 <p>
   <h1>Yo.</h1><br>
-  I likes pixel art, RPGs, and the trinity that is the Isekai-System-Wuxia genre<br>
+  I like pixel art, roguelikes, making fun shit, and the trinity that is the Isekai-System-Wuxia genre<br>
   <a href="https://roberika.github.io">My site</a><br>
 </p>
 <p>
-  I've used, Python, Flutter-Dart, React-JS, Godot, Octave-MatLab, Java, Bash, Pascal, C++.
+  I main Python, Flask-Python, Godot-GDScript, Flutter-Dart, and React-JS.
 </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=roberika&show_icons=true&theme=shades-of-purple&custom_title=My-Stats&rank_icon=github)
